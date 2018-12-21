@@ -1,6 +1,6 @@
 /* Arduino functions in CPP file */
 
-#include "VMProject.h"
+#include <Arduino.h>
 
 void setup() { }
 
